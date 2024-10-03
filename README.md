@@ -1,4 +1,4 @@
-![👋 Hi, my name is Courage Kumawu](![Header](./your-header-image-name.png))
+<img src="github_profile.png" style="width: 100%; height: auto;">
 
 ![Profile views](https://komarev.com/ghpvc/?username=megazeal&label=Profile%20views&color=0e75b6&style=flat)
 
