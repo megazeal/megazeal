@@ -15,13 +15,22 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/megazeal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/Courage Kumawu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Courage Zeal" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 I'm on a mission to bridge the gap between geospatial analysis and cutting-edge web development. With a toolkit spanning both worlds, I create powerful, data-driven applications that help us better understand and interact with our planet.</h3>**
+<h3 align="left">🚀I am a passionate Geospatial Data Scientist specializing in GIS, Remote Sensing, Geospatial AI, and Spatial Data Science. With a background in Geomatic Engineering and a focus on leveraging data for impactful spatial analysis, I love exploring how technology, data, and geography intersect to solve complex, real-world problems.
+
+My interest spans a wide range of geospatial disciplines:
+
+🌐 Developing scalable spatial algorithms for high-resolution mapping and analysis
+📊 Utilizing machine learning and AI to uncover patterns in geospatial data
+🛰️ Applying remote sensing and GIS to urban planning and environmental management
+💻 Building with Python, R, and SQL to create data-driven insights and applications
+I'm driven by a curiosity to understand spatial dynamics and a commitment to open-source development.
+Feel free to explore my repositories, contribute, or reach out—let’s make an impact with geospatial tech! 🌍</h3> 
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-learning platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 The Full Stack Developer**
-- 💬 Ask me about: **Python, JavaScript, React**
+- 💼 I'm currently working on: **💻projects that involve geospatial big data, urban informatics, and high-performance computing for spatial analysis.**
+- 🌱 I'm currently learning: **📚 Mastering Machine Learning with Python in Six Steps**
+- 💬 Ask me about: **How geospatial data can solve real-world problems?**
 
  **<h3 align="left">Skills</h3>**
 
